@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beauty-shop-1ny.pages.dev/sitemap.xml

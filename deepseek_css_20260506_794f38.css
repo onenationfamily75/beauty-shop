@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { background-color: black; color: white; }
+.text-gold-400 { color: #d4af37; }
+.bg-gold-500 { background-color: #d4af37; }
