@@ -1,0 +1,3 @@
+Product Title,Description,Price,Compare At Price,Image URL,Category,Tags,Stock
+"Velvet Matte Lipstick","Long-lasting matte finish",19.99,29.99,"https://images.unsplash.com/photo-1596462502278-27e2b6bd038c?w=400","Makeup","lipstick,matte,velvet",250
+"Vitamin C Serum","Brightening anti-oxidant serum",34.50,49.00,"https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400","Skincare","serum,vitamin c,anti-aging",180
